@@ -1,6 +1,6 @@
-# werewolves
+# Vue components
 
-> A Vue.js project
+> UI components built on Vue.js
 
 ## Build Setup
 
